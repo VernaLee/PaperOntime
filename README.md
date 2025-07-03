@@ -1,10 +1,13 @@
-## 📚 PaperOntime – Academic Support Website (Built on Wix with Custom Code)
+# 📚 PaperOntime – Academic Support Website (Built on Wix with Custom Code)
 
-### Overview:
+---
+
+## Overview:
 PaperOntime is an academic support platform built on Wix, designed to provide students with access to academic proofreading, editing, and tutoring services. While Wix provides the foundation, the website's functionality — especially the ordering process — was fully customized using Velo by Wix (JavaScript).
 
+---
 
-### Key Features & Contributions:
+## Key Features & Contributions:
 ✍️ **Fully customized ordering system**: Implemented a multi-step order form using Velo code to capture detailed client requests (e.g., subject, academic level, deadline).
 
 🔐 **Conditional logic and validations**: Integrated dynamic form behavior based on user selections (e.g., hiding/showing fields).
@@ -19,19 +22,21 @@ PaperOntime is an academic support platform built on Wix, designed to provide st
 
 🎨 **Branding and visual identity**: Designed and implemented the full brand identity, including logo and color palette. Customized purchased illustrations to align with brand colors and maintain visual consistency across the site.
 
+---
 
-### Tech Stack:
-**- Platform**: Wix
+## Tech Stack:
+- **Platform**: Wix
 
-**- Language**: JavaScript (Velo by Wix)
+- **Language**: JavaScript (Velo by Wix)
 
-**- Database**: Wix Collections
+- **Database**: Wix Collections
 
-**- Payment Integration**: Stripe
+- **Payment Integration**: Stripe
 
-**- Version Control**: Git (for code backup and portfolio purposes)
+- **Version Control**: Git (for code backup and portfolio purposes)
 
+---
 
-### 🔗 Notes:
+## 🔗 Notes:
 1. Screenshots and GIFs of the user interface and order process are included in this repository.
 2. This GitHub repo includes only the custom code and documentation, not the Wix environment or frontend visuals (which cannot be exported from Wix directly).
