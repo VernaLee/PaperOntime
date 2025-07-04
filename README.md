@@ -54,10 +54,10 @@ You can view all page screenshots in the [`/assets/screenshots/`](./assets/scree
 Explore the core features of the PaperOntime platform:
 
 - **Ordering Form Walkthrough** – Step-by-step view of the custom multi-stage order process  
-  👉 [Watch Demo](https://www.loom.com/share/your-loom-video-id)
+  👉 [Watch Demo](https://www.loom.com/share/485212429daf4568ae8d5a86bdb7e973)
 
 - **Track My Order Feature** – View how users can check their order status and make edits  
-  👉 [Watch Demo](https://www.loom.com/share/your-loom-video-id)
+  👉 [Watch Demo](https://www.loom.com/share/6f7a9ea5162d4c0baedcbf291d562f2b)
 
 ---
 
