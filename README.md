@@ -37,6 +37,29 @@ PaperOntime is an academic support platform built on Wix, designed to provide st
 
 ---
 
+## 🖼 Screenshots
+
+You can view all page screenshots in the [`/assets/screenshots/`](./assets/screenshots/) folder of this repository:
+
+- [Home](./assets/screenshots/home.png)
+- [About Us](./assets/screenshots/aboutUs.png)
+- [Samples](./assets/screenshots/samples.png)
+- [FAQ](./assets/screenshots/faq.png)
+- [Blog](./assets/screenshots/blog.png)
+
+---
+
+## 🎥 Demo
+
+Explore the core features of the PaperOntime platform:
+
+- **Ordering Form Walkthrough** – Step-by-step view of the custom multi-stage order process  
+  👉 [Watch Demo](https://www.loom.com/share/your-loom-video-id)
+
+- **Track My Order Feature** – View how users can check their order status and make edits  
+  👉 [Watch Demo](https://www.loom.com/share/your-loom-video-id)
+
+---
+
 ## 🔗 Notes:
-1. Screenshots and GIFs of the user interface and order process are included in this repository.
-2. This GitHub repo includes only the custom code and documentation, not the Wix environment or frontend visuals (which cannot be exported from Wix directly).
+This GitHub repo includes only the custom code and documentation, not the Wix environment or frontend visuals (which cannot be exported from Wix directly).
